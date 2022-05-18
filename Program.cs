@@ -1,4 +1,4 @@
-bool jogando = true;
+﻿bool jogando = true;
 
 bool reiniciar()
 {

@@ -1,0 +1,15 @@
+C:\Users\GAMER\Desktop\jogo da velha vscode\bin\Debug\net6.0\jogo da velha vscode.exe
+C:\Users\GAMER\Desktop\jogo da velha vscode\bin\Debug\net6.0\jogo da velha vscode.deps.json
+C:\Users\GAMER\Desktop\jogo da velha vscode\bin\Debug\net6.0\jogo da velha vscode.runtimeconfig.json
+C:\Users\GAMER\Desktop\jogo da velha vscode\bin\Debug\net6.0\jogo da velha vscode.dll
+C:\Users\GAMER\Desktop\jogo da velha vscode\bin\Debug\net6.0\jogo da velha vscode.pdb
+C:\Users\GAMER\Desktop\jogo da velha vscode\obj\Debug\net6.0\jogo da velha vscode.csproj.AssemblyReference.cache
+C:\Users\GAMER\Desktop\jogo da velha vscode\obj\Debug\net6.0\jogo da velha vscode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GAMER\Desktop\jogo da velha vscode\obj\Debug\net6.0\jogo da velha vscode.AssemblyInfoInputs.cache
+C:\Users\GAMER\Desktop\jogo da velha vscode\obj\Debug\net6.0\jogo da velha vscode.AssemblyInfo.cs
+C:\Users\GAMER\Desktop\jogo da velha vscode\obj\Debug\net6.0\jogo da velha vscode.csproj.CoreCompileInputs.cache
+C:\Users\GAMER\Desktop\jogo da velha vscode\obj\Debug\net6.0\jogo da velha vscode.dll
+C:\Users\GAMER\Desktop\jogo da velha vscode\obj\Debug\net6.0\refint\jogo da velha vscode.dll
+C:\Users\GAMER\Desktop\jogo da velha vscode\obj\Debug\net6.0\jogo da velha vscode.pdb
+C:\Users\GAMER\Desktop\jogo da velha vscode\obj\Debug\net6.0\jogo da velha vscode.genruntimeconfig.cache
+C:\Users\GAMER\Desktop\jogo da velha vscode\obj\Debug\net6.0\ref\jogo da velha vscode.dll
